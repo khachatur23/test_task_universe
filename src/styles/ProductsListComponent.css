@@ -1,0 +1,24 @@
+
+.products-list-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.product-menu{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.product-menu-list{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 20px;
+    cursor: pointer;
+    color: #1E1E1E;
+}
+
+.product-menu-list:hover{
+    color: #12724F;}

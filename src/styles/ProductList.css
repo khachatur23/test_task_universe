@@ -1,0 +1,33 @@
+.product-list-component{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-list-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+}
+
+
+.partner-img{
+    margin-top: 70px;
+}
+
+.partners-component{
+    display: flex;justify-content: center;
+}
+
+.look-more-button{ 
+    margin: 30px;
+    width: 235px;
+    height:62px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    background-color: #12724F;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;}
